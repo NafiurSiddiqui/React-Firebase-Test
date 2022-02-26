@@ -1,0 +1,9 @@
+Sending Request
+loading spinner
+conditional checking
+error handling
+usingEffect and callback hook correctly
+Ensuring when the http function always needs to run or not to run.
+get data
+send data - for example, a new user added.
+use of Firebase.
